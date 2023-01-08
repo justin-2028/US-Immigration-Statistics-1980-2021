@@ -27,4 +27,4 @@ All data are **official** figures from the Department of Homeland Security's gov
 [Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/us-immigration-statistics-1980-2021) - The same data but on Kaggle.
 
 # Code Starter
-[Link to Notebook]()
+[Link to Notebook](https://www.kaggle.com/code/justin2028/us-immigration-statistics-1980-2021-code-starter)
